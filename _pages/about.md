@@ -42,6 +42,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 </div>
+{: #publications }
 
 ## Publications
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
