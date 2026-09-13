@@ -14,7 +14,6 @@ I completed my B.Sc. in Computer Science and Engineering from <a href="https://w
 Beyond research, I enjoy supporting students and contributing to academic and student communities. I currently serve as an Advisor to the Students’ International Affairs Society (SIAS-UIU), where I provide guidance and mentorship to students in leadership, teamwork, and professional development. I previously served as the society’s General Secretary and have been involved in organizing academic and international education events.
 
 My long-term goal is to pursue advanced research and contribute to the development of intelligent, trustworthy, and multimodal AI systems that connect computational advances with meaningful real-world applications.
-
 {: #news }
 
 ## News
@@ -26,7 +25,6 @@ For those users that need more advanced functionality, the template also support
 - [MathJax](https://www.mathjax.org/) for mathematical equations
 - [Mermaid](https://mermaid.js.org/) for diagraming
 - [Plotly](https://plotly.com/javascript/) for plotting
-
 {: #publications }
 
 ## Publications
