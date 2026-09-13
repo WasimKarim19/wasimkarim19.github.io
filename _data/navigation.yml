@@ -9,13 +9,13 @@
 
 main:
   - title: "About"
-    url: / 
+    url: /#about
 
   - title: "News"
-    url: /#news/ 
+    url: /#news
     
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
 
   - title: "CV"
     url: /files/CV_Wasimul.pdf
