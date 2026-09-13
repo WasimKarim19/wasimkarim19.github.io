@@ -34,8 +34,13 @@
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link icon-pad-right" aria-hidden="true"></i>{{ site.data.ui-text[site.locale].website_label | default: "Website" }}</a></li>
       {% endif %}
       {% if author.email %}
-        <li>
-          <a href="mailto:{{ author.email }}">
+        <li style="white-space: normal !important;">
+          <a href="mailto:{{ author.email }}"
+             style="white-space: normal !important;
+                    overflow-wrap: anywhere !important;
+                    word-break: break-word !important;
+                    display: block;
+                    max-width: 100%;">
             <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
             wkarim211105[at]bscse[dot]uiu[dot]ac[dot]bd
           </a>
