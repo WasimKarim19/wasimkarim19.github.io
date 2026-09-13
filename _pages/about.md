@@ -9,6 +9,7 @@ redirect_from:
 {: #about }
 
 <div style="height: 30px;"></div>
+
 ## About
 Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://researchers.cdu.edu.au/en/persons/sami-azam/" style="text-decoration: none !important;">Sami Azam</a> from Charles Darwin University, Australia. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
 
