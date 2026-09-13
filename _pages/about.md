@@ -1,15 +1,19 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://www.cdu.edu.au/research-and-innovation/higher-degree-research/find-supervisor/eng-tech/dr-sami-azam" style="text-decoration: none !important;">Sami Azam</a> from Charles Darwin University, Australia. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I completed my B.Sc. in Computer Science and Engineering from <a href="https://www.uiu.ac.bd/" style="text-decoration: none !important;">United International University</a> with *Magna Cum Laude* distinction (Top 5%). I also worked as an Undergraduate Teaching Assistant here, where I supported courses in programming, computer systems, object-oriented programming, and data structures and algorithms.
+
+Beyond research, I enjoy supporting students and contributing to academic and student communities. I currently serve as an Advisor to the Students’ International Affairs Society (SIAS-UIU), where I provide guidance and mentorship to students in leadership, teamwork, and professional development. I previously served as the society’s General Secretary and have been involved in organizing academic and international education events.
+
+My long-term goal is to pursue advanced research and contribute to the development of intelligent, trustworthy, and multimodal AI systems that connect computational advances with meaningful real-world applications.
 
 A data-driven personal website
 ======
