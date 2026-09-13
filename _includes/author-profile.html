@@ -36,13 +36,23 @@
       {% if author.email %}
         <li style="white-space: normal !important;">
           <a href="mailto:{{ author.email }}"
-             style="white-space: normal !important;
-                    overflow-wrap: anywhere !important;
-                    word-break: break-word !important;
-                    display: block;
-                    max-width: 100%;">
-            <i class="fas fa-fw fa-envelope icon-pad-right" aria-hidden="true"></i>
-            wkarim211105[at]bscse[dot]uiu[dot]ac[dot]bd
+             style="display: grid;
+                    grid-template-columns: 20px minmax(0, 1fr);
+                    column-gap: 10px;
+                    align-items: start;
+                    white-space: normal !important;
+                    text-decoration: none;">
+
+            <i class="fas fa-fw fa-envelope"
+               aria-hidden="true"
+               style="margin-top: 3px;"></i>
+
+            <span style="overflow-wrap: anywhere;
+                         word-break: break-word;
+                         min-width: 0;">
+              wkarim211105[at]bscse[dot]uiu[dot]ac[dot]bd
+            </span>
+
           </a>
         </li>
       {% endif %}
