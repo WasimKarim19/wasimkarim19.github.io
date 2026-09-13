@@ -22,13 +22,13 @@ My long-term goal is to pursue advanced research and contribute to the developme
 <div style="height: 430px; overflow-y: auto; padding-right: 15px;">
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
-  <div><strong><em>Jul, 2026</em></strong></div>
-  <div>Our paper has been published in <strong>Archives of Computational Methods in Engineering</strong> 🎉</div>
+  <div><strong><em>Aug, 2026</em></strong></div>
+  <div>2nd joint first-author paper has been published in <strong>Archives of Computational Methods in Engineering</strong> 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
-  <div><strong><em>Aug, 2026</em></strong></div>
-  <div>Our paper has been published in <strong>Computers and Electrical Engineering</strong> (CiteScore: 12.2, Impact Factor: 4.9) 🎉</div>
+  <div><strong><em>Jul, 2026</em></strong></div>
+  <div>Joint first-suthor paper has been published in <strong>Computers and Electrical Engineering</strong> (CiteScore: 12.2, Impact Factor: 4.9) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
@@ -42,6 +42,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 </div>
+
 {: #publications }
 
 ## Publications
