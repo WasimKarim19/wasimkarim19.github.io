@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## About
+# About
 Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://researchers.cdu.edu.au/en/persons/sami-azam/" style="text-decoration: none !important;">Sami Azam</a> from <a href="https://www.cdu.edu.au/" style="text-decoration: none !important;">Charles Darwin University</a>, Australia. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
 
 I completed my B.Sc. in Computer Science and Engineering from <a href="https://www.uiu.ac.bd/" style="text-decoration: none !important;">United International University</a> with *Magna Cum Laude* distinction (Top 5%). I also worked as an Undergraduate Teaching Assistant here, where I supported courses in programming, computer systems, object-oriented programming, and data structures and algorithms.
@@ -17,7 +17,7 @@ Beyond research, I enjoy supporting students and contributing to academic and st
 My long-term goal is to pursue advanced research and contribute to the development of intelligent, trustworthy, and multimodal AI systems that connect computational advances with meaningful real-world applications.
 {: #news }
 
-## News
+# News
 
 <div style="height: 430px; overflow-y: auto; padding-right: 15px;">
 
@@ -45,7 +45,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 {: #publications }
 
-## Publications
+# Publications
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
