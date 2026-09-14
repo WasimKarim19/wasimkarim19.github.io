@@ -184,7 +184,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-authors">
-    <strong>Wasimul Karim*</strong>, Md. Abdur Rahman*, Mohaimenul Azam Khan Raiaan, Tamanna Shermin, Md Rafiqul Islam, Mukhtar Hussain, Sami Azam
+    <strong>Wasimul Karim*</strong>, Md. Abdur Rahman*, Mohaimenul Azam Khan Raiaan*, Tamanna Shermin, Md Rafiqul Islam, Mukhtar Hussain, Sami Azam
   </div>
 
   <div class="pub-equal">
