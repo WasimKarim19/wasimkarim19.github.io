@@ -10,7 +10,7 @@ redirect_from:
 # About
 Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://researchers.cdu.edu.au/en/persons/sami-azam/" style="text-decoration: none !important;">Sami Azam</a> from <a href="https://www.cdu.edu.au/" style="text-decoration: none !important;">Charles Darwin University</a>, Australia. I am also working as a Research Assistant at the University of Scholars, Dhaka, Bangladesh. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
 
-I completed my B.Sc. in Computer Science and Engineering from <a href="https://www.uiu.ac.bd/" style="text-decoration: none !important;">United International University</a> with *Magna Cum Laude* distinction (Top 5%). I also worked as an Undergraduate Teaching Assistant here, where I supported courses in programming, computer systems, object-oriented programming, and data structures and algorithms.
+I completed my B.Sc. in Computer Science and Engineering from <a href="https://www.uiu.ac.bd/" style="text-decoration: none !important;">United International University</a> with *Magna Cum Laude* distinction in recognition of academic excellence. I also worked as an Undergraduate Teaching Assistant here, where I supported courses in programming, computer systems, object-oriented programming, and data structures and algorithms.
 
 Beyond research, I enjoy supporting students and contributing to academic and student communities. I currently serve as an Advisor to the Students’ International Affairs Society (SIAS-UIU), where I provide guidance and mentorship to students in leadership, teamwork, and professional development. I previously served as the society’s General Secretary and have been involved in organizing academic and international education events.
 
@@ -431,7 +431,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-journal">
-    arXiv, 2026 — Under Review
+    arXiv, 2026 — Under Review (IEEE Transactions on Big Data)
   </div>
 
   <div class="pub-buttons">
@@ -465,7 +465,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
     <h2>Abstract</h2>
 
     <p>
-      Add the abstract of the paper here.
+      Accurate weight estimation of commercial and industrial waste is important for efficient operations, yet image-based estimation remains difficult because similar-looking objects may have different densities, and the visible size changes with camera distance. Addressing this problem, we propose Multimodal Weight Predictor (MWP) framework that estimates waste weight by combining RGB images with physics-informed metadata, including object dimensions, camera distance, and camera height. We also introduce Waste-Weight-10K, a real-world dataset containing 10,421 synchronized image-metadata collected from logistics and recycling sites. The dataset covers 11 waste categories and a wide weight range from 3.5 to 3,450 kg. Our model uses a Vision Transformer for visual features and a dedicated metadata encoder for geometric and category information, combining them with Stacked Mutual Attention Fusion that allows visual and physical cues guide each other. This helps the model manage perspective effects and link objects to material properties. To ensure stable performance across the wide weight range, we train the model using Mean Squared Logarithmic Error. On the test set, the proposed method achieves 88.06 kg Mean Absolute Error (MAE), 6.39% Mean Absolute Percentage Error (MAPE), and an R2 coefficient of 0.9548. The model shows strong accuracy for light objects in the 0-100 kg range with 2.38 kg MAE and 3.1% MAPE, maintaining reliable performance for heavy waste in the 1000-2000 kg range with 11.1% MAPE. Finally, we incorporate a physically grounded explanation module using Shapley Additive Explanations (SHAP) and a large language model to provide clear, human-readable explanations for each prediction.
     </p>
 
   </div>
@@ -499,6 +499,173 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 </div>
 
+<div class="pub-card">
+
+  <div class="pub-title">
+    Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach
+  </div>
+
+  <div class="pub-authors">
+    <strong>Wasimul Karim</strong>, Nur Mohammad Fahad, Abdul Hasib Siddique, Md Rafiqul Islam, Hooman Mehdizadeh-Rad, Asif Karim, Sami Azam
+  </div>
+
+  <div class="pub-journal">
+    arXiv, 2026 — Under Review (The International Journal of Advanced Manufacturing Technology)
+  </div>
+
+  <div class="pub-buttons">
+    <button class="pub-btn" onclick="openPubModal('abstract3')">
+      Abstract
+    </button>
+
+    <button class="pub-btn" onclick="openPubModal('bib3')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://doi.org/10.48550/arXiv.2607.16056"
+       target="_blank"
+       rel="noopener noreferrer">
+      Link
+    </a>
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal 3 -->
+<div id="abstract3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract3')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      Accurate segmentation of electrolyzer materials is essential for automated disassembly, sustainable recycling, and circular manufacturing in hydrogen technologies. However, this task is challenging due to strong visual similarity between materials, spectral overlap, irregular shapes, and severe class imbalance. To address these challenges, we propose an AI-driven dual-branch framework, Hyperspectral-RGB Electrolyzer Materials Network (HREM-Net), that combines hyperspectral imaging (HSI) and RGB images for electrolyzer material segmentation. We implemented several innovative modules, including Efficient Channel Attention, Coordinate Attention, Mobile Inverted Bottleneck blocks, and Atrous Spatial Pyramid Pooling to capture spectral and spatial features from HSI, and RGB images. With an adaptive gated cross-modal fusion module and composite loss function, HREM-Net achieves a mean class accuracy of 91.66% and a mean Intersection over Union (mIoU) of 0.82 on the Electrolyzers-HSI dataset, outperforming baseline segmentation models. Cross-dataset validation on the PCB-Vision dataset demonstrates strong generalization with 96.91% accuracy and 0.93 mIoU. This work poses its potential as an industrial application to improve electrolyzer efficiency, thereby improving the predictive maintenance of hydrogen production.
+    </p>
+
+  </div>
+</div>
+
+
+<!-- BibTeX Modal 3 -->
+<div id="bib3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib3')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+<pre class="bib-box"><code id="bibtext3">@article{karim2026multi,
+  title={Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach},
+  author={Karim, Wasimul and Fahad, Nur Mohammad and Siddique, Abdul Hasib and Islam, Md Rafiqul and Mehdizadeh-Rad, Hooman and Karim, Asif and Azam, Sami},
+  journal={arXiv preprint arXiv:2607.16056},
+  year={2026},
+  doi={10.48550/arXiv.2607.16056}
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext3')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
+
+<div class="pub-card">
+
+  <div class="pub-title">
+    DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection
+  </div>
+
+  <div class="pub-authors">
+    <strong>Wasimul Karim*</strong>, Sayeem Been Zaman*, Arefin Ittesafun Abian, Reem E. Mohamed, Md Rafiqul Islam, Asif Karim, Sami Azam
+  </div>
+
+  <div class="pub-equal">
+    *Equal contribution
+  </div>
+
+  <div class="pub-journal">
+    arXiv, 2026 — Under Review (Multimedia Tools and Applications)
+  </div>
+
+  <div class="pub-buttons">
+
+    <button class="pub-btn"
+            onclick="openPubModal('abstract3')">
+      Abstract
+    </button>
+
+    <button class="pub-btn"
+            onclick="openPubModal('bib3')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://arxiv.org/abs/2512.07351"
+       target="_blank"
+       rel="noopener noreferrer">
+      Link
+    </a>
+
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal 3 -->
+<div id="abstract3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract3')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      The increasing use of synthetic media, particularly deepfakes, is an emerging challenge for digital content verification. Although recent studies use both audio and visual information, most integrate these cues within a single model, which remains vulnerable to modality mismatches, noise, and manipulation. To address this gap, we propose DeepAgent, an advanced multi-agent collaboration framework that simultaneously incorporates both visual and audio modalities for the effective detection of deepfakes. DeepAgent consists of two complementary agents. Agent-1 examines each video with a streamlined AlexNet-based CNN to identify the symbols of deepfake manipulation, while Agent-2 detects audio-visual inconsistencies by combining acoustic features, audio transcriptions from Whisper, and frame-reading sequences of images through EasyOCR. Their decisions are fused through a Random Forest meta-classifier that improves final performance by taking advantage of the different decision boundaries learned by each agent. This study evaluates the proposed framework using three benchmark datasets to demonstrate both component-level and fused performance. Agent-1 achieves a test accuracy of 94.35% on the combined Celeb-DF and FakeAVCeleb datasets. On the FakeAVCeleb dataset, Agent-2 and the final meta-classifier attain accuracies of 93.69% and 81.56%, respectively. In addition, cross-dataset validation on DeepFakeTIMIT confirms the robustness of the meta-classifier, which achieves a final accuracy of 97.49%, and indicates a strong capability across diverse datasets. These findings confirm that hierarchy-based fusion enhances robustness by mitigating the weaknesses of individual modalities and demonstrate the effectiveness of a multi-agent approach in addressing diverse types of manipulations in deepfakes.
+    </p>
+
+  </div>
+</div>
+
+
+<!-- BibTeX Modal 3 -->
+<div id="bib3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib3')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+<pre class="bib-box"><code id="bibtext3">@article{zaman2025deepagent,
+  title={DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection},
+  author={Karim, Wasimul and Zaman, Sayeem Been and Abian, Arefin Ittesafun and Mohamed, Reem E and Islam, Md Rafiqul and Karim, Asif and Azam, Sami},
+  journal={arXiv preprint arXiv:2512.07351},
+  year={2025},
+  doi={10.48550/arXiv.2512.07351}
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext3')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
 
 <script>
 function openPubModal(id) {
