@@ -330,15 +330,15 @@
 @media screen and (max-width: 1024px) {
 
   .author__avatar {
-    width: 80px !important;
-    min-width: 80px !important;
-    height: 80px !important;
-    margin-right: 16px !important;
+    width: 110px !important;
+    min-width: 110px !important;
+    height: 110px !important;
+    margin-right: 10px !important;
   }
 
   .author__avatar img {
-    width: 80px !important;
-    height: 80px !important;
+    width: 110px !important;
+    height: 110px !important;
     max-width: none !important;
     object-fit: cover;
     border-radius: 50%;
@@ -363,15 +363,15 @@
 @media screen and (max-width: 600px) {
 
   .author__avatar {
-    width: 68px !important;
-    min-width: 68px !important;
-    height: 68px !important;
+    width: 90px !important;
+    min-width: 90px !important;
+    height: 90px !important;
     margin-right: 12px !important;
   }
 
   .author__avatar img {
-    width: 68px !important;
-    height: 68px !important;
+    width: 90px !important;
+    height: 90px !important;
   }
 
   .author__name {
