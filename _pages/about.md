@@ -94,17 +94,26 @@ My long-term goal is to pursue advanced research and contribute to the developme
 .pub-btn {
   display: inline-block;
   padding: 9px 16px;
-  border: 1px solid var(--global-border-color);
+
+  /* Light orange background */
+  background: rgba(201, 148, 50, 0.12);
+
+  /* Clearly visible orange border */
+  border: 1.5px solid #c99432;
+
   border-radius: 6px;
-  background: var(--global-bg-color);
-  color: var(--global-text-color) !important;
+  color: #c99432 !important;
   text-decoration: none !important;
   cursor: pointer;
   font-size: 0.95rem;
+  transition: all 0.2s ease;
 }
 
 .pub-btn:hover {
-  background: var(--global-border-color);
+  background: rgba(201, 148, 50, 0.22);
+  border-color: #c99432;
+  color: #c99432 !important;
+  text-decoration: none !important;
 }
 
 .pub-modal {
