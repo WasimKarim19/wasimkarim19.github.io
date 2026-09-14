@@ -74,7 +74,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 .pub-equal {
   font-size: 0.95rem;
   font-style: italic;
-  color: var(--global-text-color-light);
+  color: var(--global-text-color);
   margin-bottom: 12px;
 }
 
