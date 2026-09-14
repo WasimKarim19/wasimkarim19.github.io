@@ -42,19 +42,18 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 </div>
-
 {: #publications }
 
 # Publications
 
 <style>
 .pub-card {
-  border: 1px solid #e5e5e5;
+  border: 1px solid var(--global-border-color);
   border-radius: 12px;
   padding: 22px;
   margin-bottom: 24px;
-  background: #fff;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+  background: var(--global-bg-color);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
 }
 
 .pub-title {
@@ -62,18 +61,19 @@ My long-term goal is to pursue advanced research and contribute to the developme
   font-weight: 500;
   margin-bottom: 10px;
   line-height: 1.4;
+  color: var(--global-text-color);
 }
 
 .pub-authors {
   font-size: 1rem;
-  color: #666;
+  color: var(--global-text-color);
   margin-bottom: 6px;
 }
 
 .pub-equal {
   font-size: 0.95rem;
   font-style: italic;
-  color: #888;
+  color: var(--global-text-color-light);
   margin-bottom: 12px;
 }
 
@@ -93,17 +93,17 @@ My long-term goal is to pursue advanced research and contribute to the developme
 .pub-btn {
   display: inline-block;
   padding: 9px 16px;
-  border: 1px solid #ddd;
+  border: 1px solid var(--global-border-color);
   border-radius: 6px;
-  background: #fafafa;
-  color: #555 !important;
+  background: var(--global-bg-color);
+  color: var(--global-text-color) !important;
   text-decoration: none !important;
   cursor: pointer;
   font-size: 0.95rem;
 }
 
 .pub-btn:hover {
-  background: #f1f1f1;
+  background: var(--global-border-color);
 }
 
 .pub-modal {
@@ -115,13 +115,15 @@ My long-term goal is to pursue advanced research and contribute to the developme
   width: 100%;
   height: 100%;
   overflow: auto;
-  background: rgba(0,0,0,0.45);
+  background: rgba(0,0,0,0.65);
 }
 
 .pub-modal-content {
-  background: #fff;
+  background: var(--global-bg-color);
+  color: var(--global-text-color);
   margin: 6% auto;
   padding: 28px;
+  border: 1px solid var(--global-border-color);
   border-radius: 14px;
   width: 80%;
   max-width: 850px;
@@ -135,21 +137,27 @@ My long-term goal is to pursue advanced research and contribute to the developme
   right: 22px;
   top: 14px;
   font-size: 28px;
-  color: #888;
+  color: var(--global-text-color-light);
   cursor: pointer;
 }
 
 .pub-modal-close:hover {
-  color: #222;
+  color: var(--global-text-color);
 }
 
 .pub-modal h2 {
   margin-top: 0;
+  color: var(--global-text-color);
+}
+
+.pub-modal p {
+  color: var(--global-text-color);
 }
 
 .bib-box {
-  background: #f5f1e8;
-  border: 1px solid #e3dccf;
+  background: var(--global-code-background-color);
+  color: var(--global-text-color);
+  border: 1px solid var(--global-border-color);
   border-radius: 8px;
   padding: 18px;
   white-space: pre-wrap;
@@ -158,7 +166,6 @@ My long-term goal is to pursue advanced research and contribute to the developme
   overflow-x: auto;
 }
 </style>
-
 
 <div class="pub-card">
 
