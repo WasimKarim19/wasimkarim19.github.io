@@ -420,6 +420,86 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 </div>
 
+<div class="pub-card">
+
+  <div class="pub-title">
+    Learning to Weigh Waste: A Physics-Informed Multimodal Fusion Framework and Large-Scale Dataset for Commercial and Industrial Applications
+  </div>
+
+  <div class="pub-authors">
+    Md Adnanul Islam, <strong>Wasimul Karim</strong>, Md Mahbub Alam, Subhey Sadi Rahman, Md Abdur Rahman, Arefin Ittesafun Abian, Mohaimenul Azam Khan Raiaan, Kheng Cher Yeo, Deepika Mathur, Sami Azam
+  </div>
+
+  <div class="pub-journal">
+    arXiv, 2026 — Under Review
+  </div>
+
+  <div class="pub-buttons">
+    <button class="pub-btn" onclick="openPubModal('abstract3')">
+      Abstract
+    </button>
+
+    <button class="pub-btn" onclick="openPubModal('bib3')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://arxiv.org/abs/2603.00931"
+       target="_blank">
+      Link
+    </a>
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal -->
+<div id="abstract3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract3')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      Add the abstract of the paper here.
+    </p>
+
+  </div>
+</div>
+
+
+<!-- BibTeX Modal 3 -->
+<div id="bib3" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib3')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+<pre class="bib-box"><code id="bibtext3">@article{islam2026learning,
+  title={Learning to Weigh Waste: A Physics-Informed Multimodal Fusion Framework and Large-Scale Dataset for Commercial and Industrial Applications},
+  author={Islam, Md Adnanul and Karim, Wasimul and Alam, Md Mahbub and Rahman, Subhey Sadi and Rahman, Md Abdur and Abian, Arefin Ittesafun and Raiaan, Mohaimenul Azam Khan and Yeo, Kheng Cher and Mathur, Deepika and Azam, Sami},
+  journal={arXiv preprint arXiv:2603.00931},
+  year={2026},
+  doi={10.48550/arXiv.2603.00931}
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext3')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
+
+
 <script>
 function openPubModal(id) {
   document.getElementById(id).style.display = "block";
