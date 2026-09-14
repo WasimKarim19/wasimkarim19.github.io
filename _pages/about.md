@@ -255,7 +255,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-authors">
-    <strong>Wasimul Karim*</strong>, Riasad Alvi*, Sayeem Been Zaman*, Arefin Ittesafun Abian, Saddam Mukta, Rafi Ur Rashid, Md Rafiqul Islam, Yakub Sebastian, Sami Azam
+    <strong>Wasimul Karim*</strong>, Riasad Alvi*, Sayeem Been Zaman*, Arefin Ittesafun Abian, Mohaimenul Azam Khan Raiaan, Saddam Mukta, Rafi Ur Rashid, Md Rafiqul Islam, Yakub Sebastian, Sami Azam
   </div>
 
   <div class="pub-equal">
