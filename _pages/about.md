@@ -28,7 +28,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Jul, 2026</em></strong></div>
-  <div>Joint first-suthor paper has been published in <strong>Computers and Electrical Engineering</strong> (CiteScore: 12.2, Impact Factor: 4.9) 🎉</div>
+  <div>Joint first-author paper has been published in <strong>Computers and Electrical Engineering</strong> (CiteScore: 12.2, Impact Factor: 4.9) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
@@ -209,8 +209,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
     <h2>Abstract</h2>
 
     <p>
-      Paste the abstract of your paper here.
-      This window will appear only when the user clicks the Abstract button.
+      Musculoskeletal disorders pose significant risks to athletes, and early risk assessment is essential for prevention. However, most existing methods are designed for controlled settings and fail to reliably assess risk in complex environments due to their reliance on a single type of data. This research introduces ViSK-GAT (Visual-Skeletal Geometric Attention Transformer), a novel multimodal deep learning framework that classifies musculoskeletal risk using both visual and skeletal coordinate-based features. A custom multimodal dataset (MusDis-Sports) was created by combining images and skeletal coordinates, with each sample labeled into eight risk categories based on the Rapid Entire Body Assessment (REBA) system. ViSK-GAT integrates two innovative modules: the Fine-Grained Attention Module (FGAM), which refines intra-modal features through self-attention before fusion, and the Multimodal Geometric Correspondence Module (MGCM), which enhances cross-modal alignment between image features and coordinates. The model achieved robust performance, with all key metrics exceeding 93%. Probability distribution error metrics also showed a low Root Mean Squared Error (RMSE) of 0.1205 and a Mean Absolute Error (MAE) of 0.0156. ViSK-GAT consistently outperformed state-of-the-art (SOTA) deep learning backbones and showed its potential to advance artificial intelligence-driven musculoskeletal risk assessment and enable timely interventions in sports.
     </p>
 
   </div>
@@ -228,11 +227,14 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
     <h2>BibTeX Citation</h2>
 
-    <div class="bib-box" id="bibtext1">@article{karim2026finegrained,
-  title={A Fine-Grained Attention and Geometric Correspondence Model for Musculoskeletal Risk Classification in Athletes Using Multimodal Visual and Skeletal Features},
-  author={Karim, Wasimul and Rahman, Md. Abdur and Raiaan, Mohaimenul Azam Khan and Shermin, Tamanna and Islam, Md Rafiqul and Hussain, Mukhtar and Azam, Sami},
+    <div class="bib-box" id="bibtext1">@article{rahman2026fine,
+  title={A fine-grained attention and geometric correspondence model for musculoskeletal risk classification in athletes using multimodal visual and skeletal features},
+  author={Rahman, Md Abdur and Karim, Wasimul and Raiaan, Mohaimenul Azam Khan and Shermin, Tamanna and Islam, Md Rafiqul and Hussain, Mukhtar and Azam, Sami},
   journal={Computers and Electrical Engineering},
+  volume={138},
+  pages={111281},
   year={2026},
+  publisher={Elsevier},
   doi={10.1016/j.compeleceng.2026.111281}
 }</div>
 
@@ -246,6 +248,92 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 </div>
 
+<div class="pub-card">
+
+  <div class="pub-title">
+    Generative Artificial Intelligence in Bioinformatics: A Systematic Review of Models, Applications, and Methodological Advances
+  </div>
+
+  <div class="pub-authors">
+    <strong>Wasimul Karim*</strong>, Riasad Alvi*, Sayeem Been Zaman*, Arefin Ittesafun Abian, Saddam Mukta, Rafi Ur Rashid, Md Rafiqul Islam, Yakub Sebastian, Sami Azam
+  </div>
+
+  <div class="pub-equal">
+    *Equal contribution
+  </div>
+
+  <div class="pub-journal">
+    Archives of Computational Methods in Engineering, 2026
+  </div>
+
+  <div class="pub-buttons">
+    <button class="pub-btn" onclick="openPubModal('abstract2')">
+      Abstract
+    </button>
+
+    <button class="pub-btn" onclick="openPubModal('bib2')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://doi.org/10.1007/s11831-026-10743-z"
+       target="_blank">
+      Link
+    </a>
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal -->
+<div id="abstract2" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract2')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      Generative artificial intelligence (GenAI) has become a transformative approach in bioinformatics that often enables advancements in genomics, proteomics, transcriptomics, structural biology, and drug discovery. To systematically identify and evaluate these growing developments, this review proposes six research questions (RQs), according to the preferred reporting items for systematic reviews and meta-analysis methods. The objective is to evaluate influential GenAI strategies with respect to methodological advancement, predictive performance, and specialization, and to identify promising approaches for advanced modeling, data-intensive discovery, and integrative biological analysis. RQ1 highlights diverse applications across multiple bioinformatics subfields (sequence analysis, molecular design, and integrative data modeling), which demonstrate superior performance over traditional methods through pattern recognition and output generation. RQ2 reveals that adapted specialized model architectures outperformed general-purpose models, an advantage attributed to targeted pretraining and context-aware strategies. RQ3 identifies significant benefits in the bioinformatics domains, focusing on molecular analysis and data integration, that improves accuracy and reduces errors in complex analysis. RQ4 indicates improvements in structural modeling, functional prediction, and synthetic data generation, validated by established benchmarks. RQ5 suggests the main constraints, such as lack of scalability and biases in data that impact generalizability, and proposes future directions focused on robust evaluation and biologically grounded modeling. RQ6 examines that molecular datasets (such as UniProtKB and ProteinNet12), cellular datasets (such as CELLxGENE and GTEx), and textual resources (such as PubMedQA and OMIM) broadly support the training and generalization of GenAI models. This review highlights the potential of GenAI to progress computational biology by addressing recent advances in bioinformatics.
+    </p>
+
+  </div>
+</div>
+
+
+<!-- BibTeX Modal -->
+<div id="bib2" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib2')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+    <div class="bib-box" id="bibtext2">@article{karim2026generative,
+  title={Generative Artificial Intelligence in Bioinformatics: A systematic review of models, applications, and methodological advances},
+  author={Karim, Wasimul and Alvi, Riasad and Zaman, Sayeem Been and Abian, Arefin Ittesafun and Raiaan, Mohaimenul Azam Khan and Mukta, Saddam and Rashid, Md Rafi Ur and Islam, Md Rafiqul and Sebastian, Yakub and Azam, Sami},
+  journal={Archives of Computational Methods in Engineering},
+  pages={1--50},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/s11831-026-10743-z}
+}</div>
+
+    <br>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext2')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
 
 <script>
 function openPubModal(id) {
