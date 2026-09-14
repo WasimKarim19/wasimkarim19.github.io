@@ -92,28 +92,71 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }
 
 .pub-btn {
-  display: inline-block;
-  padding: 9px 16px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
 
-  /* Light orange background */
-  background: rgba(201, 148, 50, 0.12);
+  padding: 8px 17px;
 
-  /* Clearly visible orange border */
-  border: 1.5px solid #c99432;
+  /* Subtle orange tint */
+  background: linear-gradient(
+    135deg,
+    rgba(201, 148, 50, 0.08),
+    rgba(201, 148, 50, 0.16)
+  );
 
-  border-radius: 6px;
+  /* Orange border */
+  border: 1.5px solid rgba(201, 148, 50, 0.85);
+  border-radius: 7px;
+
   color: #c99432 !important;
+  font-size: 0.92rem;
+  font-weight: 600;
+  line-height: 1.2;
+
   text-decoration: none !important;
   cursor: pointer;
-  font-size: 0.95rem;
-  transition: all 0.2s ease;
+
+  /* Soft depth */
+  box-shadow:
+    0 2px 5px rgba(0, 0, 0, 0.06),
+    inset 0 1px 0 rgba(255, 255, 255, 0.08);
+
+  transition:
+    background 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease,
+    transform 0.2s ease;
 }
 
 .pub-btn:hover {
-  background: rgba(201, 148, 50, 0.22);
+  background: linear-gradient(
+    135deg,
+    rgba(201, 148, 50, 0.18),
+    rgba(201, 148, 50, 0.28)
+  );
+
   border-color: #c99432;
   color: #c99432 !important;
+
+  box-shadow:
+    0 5px 12px rgba(201, 148, 50, 0.18),
+    0 2px 5px rgba(0, 0, 0, 0.08);
+
+  transform: translateY(-2px);
   text-decoration: none !important;
+}
+
+.pub-btn:active {
+  transform: translateY(0);
+
+  box-shadow:
+    0 2px 5px rgba(201, 148, 50, 0.15);
+}
+
+.pub-btn:focus-visible {
+  outline: 2px solid rgba(201, 148, 50, 0.55);
+  outline-offset: 3px;
 }
 
 .pub-modal {
