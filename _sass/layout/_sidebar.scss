@@ -324,3 +324,62 @@
     }
   }
 }
+
+
+/* Responsive author profile sizing */
+@media screen and (max-width: 1024px) {
+
+  .author__avatar {
+    width: 80px !important;
+    min-width: 80px !important;
+    height: 80px !important;
+    margin-right: 16px !important;
+  }
+
+  .author__avatar img {
+    width: 80px !important;
+    height: 80px !important;
+    max-width: none !important;
+    object-fit: cover;
+    border-radius: 50%;
+  }
+
+  .author__content {
+    vertical-align: middle;
+  }
+
+  .author__name {
+    margin-top: 0;
+    margin-bottom: 4px;
+  }
+
+  .author__bio {
+    margin-top: 0;
+    margin-bottom: 0;
+    line-height: 1.4;
+  }
+}
+
+@media screen and (max-width: 600px) {
+
+  .author__avatar {
+    width: 68px !important;
+    min-width: 68px !important;
+    height: 68px !important;
+    margin-right: 12px !important;
+  }
+
+  .author__avatar img {
+    width: 68px !important;
+    height: 68px !important;
+  }
+
+  .author__name {
+    font-size: 1.15rem;
+  }
+
+  .author__bio {
+    font-size: 0.88rem;
+    line-height: 1.35;
+  }
+}
