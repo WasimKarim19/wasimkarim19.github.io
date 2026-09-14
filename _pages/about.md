@@ -333,17 +333,6 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 </div>
 
-
-    <br>
-
-    <button class="pub-btn"
-            onclick="copyBib('bibtext1')">
-      Copy Citation
-    </button>
-
-  </div>
-</div>
-
 <div class="pub-card">
 
   <div class="pub-title">
@@ -420,14 +409,6 @@ My long-term goal is to pursue advanced research and contribute to the developme
   publisher={Springer},
   doi={10.1007/s11831-026-10743-z}
 }</code></pre>
-
-    <button class="pub-btn"
-            onclick="copyBib('bibtext2')">
-      Copy Citation
-    </button>
-
-  </div>
-</div>
 
     <br>
 
