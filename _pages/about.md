@@ -208,15 +208,42 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }
 
 .bib-box {
-  background: var(--global-code-background-color);
-  color: var(--global-text-color);
-  border: 1px solid var(--global-border-color);
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+
+  background: rgba(201, 148, 50, 0.06) !important;
+  color: var(--global-text-color) !important;
+
+  border: 1px solid rgba(201, 148, 50, 0.45);
   border-radius: 8px;
-  padding: 18px;
-  white-space: pre-wrap;
-  font-family: monospace;
-  font-size: 0.92rem;
+
+  padding: 18px 20px;
+  margin: 14px 0 24px 0;
+
+  font-family: "Courier New", Courier, monospace;
+  font-size: 0.90rem;
+  line-height: 1.65;
+
+  white-space: pre-wrap !important;
+  word-break: normal;
+  overflow-wrap: break-word;
+
   overflow-x: auto;
+}
+
+/* Prevent theme code styles from overriding BibTeX */
+.bib-box code {
+  display: block;
+  background: transparent !important;
+  color: var(--global-text-color) !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+  white-space: pre-wrap !important;
 }
 </style>
 
@@ -276,7 +303,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 
-<!-- BibTeX Modal -->
+<!-- BibTeX Modal 1 -->
 <div id="bib1" class="pub-modal">
   <div class="pub-modal-content">
 
@@ -287,7 +314,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
     <h2>BibTeX Citation</h2>
 
-    <div class="bib-box" id="bibtext1">@article{rahman2026fine,
+<pre class="bib-box"><code id="bibtext1">@article{rahman2026fine,
   title={A fine-grained attention and geometric correspondence model for musculoskeletal risk classification in athletes using multimodal visual and skeletal features},
   author={Rahman, Md Abdur and Karim, Wasimul and Raiaan, Mohaimenul Azam Khan and Shermin, Tamanna and Islam, Md Rafiqul and Hussain, Mukhtar and Azam, Sami},
   journal={Computers and Electrical Engineering},
@@ -296,7 +323,16 @@ My long-term goal is to pursue advanced research and contribute to the developme
   year={2026},
   publisher={Elsevier},
   doi={10.1016/j.compeleceng.2026.111281}
-}</div>
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext1')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
+
 
     <br>
 
@@ -364,7 +400,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 
-<!-- BibTeX Modal -->
+<!-- BibTeX Modal 2 -->
 <div id="bib2" class="pub-modal">
   <div class="pub-modal-content">
 
@@ -375,7 +411,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
     <h2>BibTeX Citation</h2>
 
-    <div class="bib-box" id="bibtext2">@article{karim2026generative,
+<pre class="bib-box"><code id="bibtext2">@article{karim2026generative,
   title={Generative Artificial Intelligence in Bioinformatics: A systematic review of models, applications, and methodological advances},
   author={Karim, Wasimul and Alvi, Riasad and Zaman, Sayeem Been and Abian, Arefin Ittesafun and Raiaan, Mohaimenul Azam Khan and Mukta, Saddam and Rashid, Md Rafi Ur and Islam, Md Rafiqul and Sebastian, Yakub and Azam, Sami},
   journal={Archives of Computational Methods in Engineering},
@@ -383,7 +419,15 @@ My long-term goal is to pursue advanced research and contribute to the developme
   year={2026},
   publisher={Springer},
   doi={10.1007/s11831-026-10743-z}
-}</div>
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext2')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
 
     <br>
 
