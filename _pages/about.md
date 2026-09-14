@@ -514,11 +514,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-buttons">
-    <button class="pub-btn" onclick="openPubModal('abstract3')">
+    <button class="pub-btn" onclick="openPubModal('abstract4')">
       Abstract
     </button>
 
-    <button class="pub-btn" onclick="openPubModal('bib3')">
+    <button class="pub-btn" onclick="openPubModal('bib4')">
       BIB
     </button>
 
@@ -534,11 +534,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 
 <!-- Abstract Modal 3 -->
-<div id="abstract3" class="pub-modal">
+<div id="abstract4" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('abstract3')">
+          onclick="closePubModal('abstract4')">
       &times;
     </span>
 
@@ -552,12 +552,12 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 
-<!-- BibTeX Modal 3 -->
-<div id="bib3" class="pub-modal">
+<!-- BibTeX Modal 4 -->
+<div id="bib4" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('bib3')">
+          onclick="closePubModal('bib4')">
       &times;
     </span>
 
@@ -594,18 +594,18 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-journal">
-    arXiv, 2026 — Under Review (Multimedia Tools and Applications)
+    arXiv, 2025 — Under Review (Multimedia Tools and Applications)
   </div>
 
   <div class="pub-buttons">
 
     <button class="pub-btn"
-            onclick="openPubModal('abstract3')">
+            onclick="openPubModal('abstract5')">
       Abstract
     </button>
 
     <button class="pub-btn"
-            onclick="openPubModal('bib3')">
+            onclick="openPubModal('bib5')">
       BIB
     </button>
 
@@ -622,11 +622,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 
 <!-- Abstract Modal 3 -->
-<div id="abstract3" class="pub-modal">
+<div id="abstract5" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('abstract3')">
+          onclick="closePubModal('abstract5')">
       &times;
     </span>
 
@@ -640,12 +640,12 @@ My long-term goal is to pursue advanced research and contribute to the developme
 </div>
 
 
-<!-- BibTeX Modal 3 -->
-<div id="bib3" class="pub-modal">
+<!-- BibTeX Modal 5 -->
+<div id="bib5" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('bib3')">
+          onclick="closePubModal('bib5')">
       &times;
     </span>
 
