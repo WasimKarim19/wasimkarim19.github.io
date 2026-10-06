@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 # About
-Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://researchers.cdu.edu.au/en/persons/sami-azam/" style="text-decoration: none !important;">Sami Azam</a> from <a href="https://www.cdu.edu.au/" style="text-decoration: none !important;">Charles Darwin University</a>, Australia. I am also working as a Research Assistant at the University of Scholars, Dhaka, Bangladesh. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
+Hello! 👋 I am a Graduate Researcher at the Applied Artificial Intelligence and INtelligent Systems <a href="https://aaiins-lab.com/" style="text-decoration: none !important;">(AAIINS)</a> Laboratory, under the supervision of Prof. <a href="https://researchers.cdu.edu.au/en/persons/sami-azam/" style="text-decoration: none !important;">Sami Azam</a> from <a href="https://www.cdu.edu.au/" style="text-decoration: none !important;">Charles Darwin University</a>, Australia. I am also working as a Research Assistant at the United International University (UIU) and the University of Scholars, Dhaka, Bangladesh. My research focuses on Machine Learning, Computer Vision, Multimodal AI, and Generative Artificial Intelligence, with a particular interest in developing intelligent systems for real-world scientific and industrial applications. I am particularly interested in combining visual information with other modalities and developing AI systems that are robust, interpretable, and applicable to real-world problems.
 
 I completed my B.Sc. in Computer Science and Engineering from <a href="https://www.uiu.ac.bd/" style="text-decoration: none !important;">United International University</a> with *Magna Cum Laude* distinction in recognition of academic excellence. I also worked as an Undergraduate Teaching Assistant here, where I supported courses in programming, computer systems, object-oriented programming, and data structures and algorithms.
 
@@ -20,6 +20,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 # News
 
 <div style="height: 430px; overflow-y: auto; padding-right: 15px;">
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
+  <div><strong><em>Oct, 2026</em></strong></div>
+  <div>Joined <strong style="color: #c99432;">United International University (UIU)</strong> as a Research Assistant under an <strong>IAR-funded research project</strong> on AI-based colon polyp detection and characterization. 👨🏻‍💻</div>
+</div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Aug, 2026</em></strong></div>
