@@ -23,6 +23,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Oct, 2026</em></strong></div>
+  <div>My <strong>3rd first-author journal paper</strong> has been accepted for publication in <strong style="color: #c99432;">Complex & Intelligent Systems</strong> (Rank: Q1, CiteScore: 11.6, Impact Factor: 4.5) 🎉</div>
+</div>
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
+  <div><strong><em>Oct, 2026</em></strong></div>
   <div>Joined <strong style="color: #c99432;">United International University (UIU)</strong> as a Research Assistant under an <strong>IAR-funded research project</strong> on AI-based colon polyp detection and characterization. 👨🏻‍💻</div>
 </div>
 
