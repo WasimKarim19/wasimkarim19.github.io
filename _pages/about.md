@@ -448,11 +448,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
   <div class="pub-buttons">
 
-    <button class="pub-btn" onclick="openPubModal('abstract2')">
+    <button class="pub-btn" onclick="openPubModal('abstract20')">
       Abstract
     </button>
 
-    <button class="pub-btn" onclick="openPubModal('bib2')">
+    <button class="pub-btn" onclick="openPubModal('bib20')">
       BIB
     </button>
 
@@ -489,18 +489,18 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 
 <!-- BibTeX Modal 2 -->
-<div id="bib2" class="pub-modal">
+<div id="bib20" class="pub-modal">
 
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('bib2')">
+          onclick="closePubModal('bib20')">
       &times;
     </span>
 
     <h2>BibTeX Citation</h2>
 
-<pre class="bib-box"><code id="bibtext2">@article{karim2026medsegnet,
+<pre class="bib-box"><code id="bibtext20">@article{karim2026medsegnet,
   author = {Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
   title = {{MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
   journal = {Complex \& Intelligent Systems},
@@ -510,7 +510,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }</code></pre>
 
     <button class="pub-btn"
-            onclick="copyBib('bibtext2')">
+            onclick="copyBib('bibtext20')">
       Copy Citation
     </button>
 
