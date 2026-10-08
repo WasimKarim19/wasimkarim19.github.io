@@ -502,7 +502,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <pre class="bib-box"><code id="bibtext20">@article{karim2026medsegnet,
   author = {Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
-  title = {{MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
+  title = { {MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
   journal = {Complex &amp; Intelligent Systems},
   year = {2026},
   doi = {10.1007/s40747-026-02535-6},
@@ -662,7 +662,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
     <h2>BibTeX Citation</h2>
 
-<pre class="bib-box"><code id="bibtext3">@article{karim2026multi,
+<pre class="bib-box"><code id="bibtext4">@article{karim2026multi,
   title={Multi-Modal Semantic Segmentation of Electrolyzer Components for Sustainable Hydrogen Technologies: A Dual-Branch Deep Learning Approach},
   author={Karim, Wasimul and Fahad, Nur Mohammad and Siddique, Abdul Hasib and Islam, Md Rafiqul and Mehdizadeh-Rad, Hooman and Karim, Asif and Azam, Sami},
   journal={arXiv preprint arXiv:2607.16056},
@@ -671,7 +671,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }</code></pre>
 
     <button class="pub-btn"
-            onclick="copyBib('bibtext3')">
+            onclick="copyBib('bibtext4')">
       Copy Citation
     </button>
 
@@ -750,7 +750,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
     <h2>BibTeX Citation</h2>
 
-<pre class="bib-box"><code id="bibtext3">@article{zaman2025deepagent,
+<pre class="bib-box"><code id="bibtext5">@article{zaman2025deepagent,
   title={DeepAgent: A Dual Stream Multi Agent Fusion for Robust Multimodal Deepfake Detection},
   author={Karim, Wasimul and Zaman, Sayeem Been and Abian, Arefin Ittesafun and Mohamed, Reem E and Islam, Md Rafiqul and Karim, Asif and Azam, Sami},
   journal={arXiv preprint arXiv:2512.07351},
@@ -759,7 +759,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }</code></pre>
 
     <button class="pub-btn"
-            onclick="copyBib('bibtext3')">
+            onclick="copyBib('bibtext5')">
       Copy Citation
     </button>
 
