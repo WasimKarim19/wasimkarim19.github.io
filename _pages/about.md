@@ -437,9 +437,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-authors">
-    <strong>Wasimul Karim</strong>, Sayeem Been Zaman, Debopom Sutradhar, Ripon Kumar Debnath, Sami Azam, Kheng Cher Yeo, Yan Zhang, Mirjam Jonkman
+    <strong>Wasimul Karim*</strong>, Sayeem Been Zaman*, Debopom Sutradhar, Ripon Kumar Debnath, Sami Azam, Kheng Cher Yeo, Yan Zhang, Mirjam Jonkman
   </div>
-
+  <div class="pub-equal">
+    *Equal contribution
+  </div>
   <div class="pub-journal">
     Complex &amp; Intelligent Systems, 2026
   </div>
