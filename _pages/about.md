@@ -503,7 +503,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 <pre class="bib-box"><code id="bibtext20">@article{karim2026medsegnet,
   author = {Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
   title = {{MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
-  journal = {Complex \& Intelligent Systems},
+  journal = {Complex &amp; Intelligent Systems},
   year = {2026},
   doi = {10.1007/s40747-026-02535-6},
   url = {https://doi.org/10.1007/s40747-026-02535-6}
