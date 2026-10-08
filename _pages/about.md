@@ -433,6 +433,93 @@ My long-term goal is to pursue advanced research and contribute to the developme
 <div class="pub-card">
 
   <div class="pub-title">
+    MedSegNet-AXU: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion
+  </div>
+
+  <div class="pub-authors">
+    <strong>Wasimul Karim</strong>, Sayeem Been Zaman, Debopom Sutradhar, Ripon Kumar Debnath, Sami Azam, Kheng Cher Yeo, Yan Zhang, Mirjam Jonkman
+  </div>
+
+  <div class="pub-journal">
+    Complex &amp; Intelligent Systems, 2026
+  </div>
+
+  <div class="pub-buttons">
+
+    <button class="pub-btn" onclick="openPubModal('abstract2')">
+      Abstract
+    </button>
+
+    <button class="pub-btn" onclick="openPubModal('bib2')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://doi.org/10.1007/s40747-026-02535-6"
+       target="_blank">
+      Link
+    </a>
+
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal -->
+<div id="abstract2" class="pub-modal">
+
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract2')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      Multiple sclerosis (MS) is a chronic neurological disorder characterized by demyelinating lesions in the central nervous system that disrupt neural impulse transmission and alter motor, sensory, and visual functions. Early diagnosis and accurate segmentation of MS lesions are critical for effective treatment and preventing disease progression. This study introduces MedSegNet-AXU, a novel framework for MS lesion segmentation. By integrating a U-Net backbone with the Convolutional Block Attention Module (CBAM) and Extended Atrous Spatial Pyramid Pooling (ASPP), the proposed model effectively uses both channel-wise and spatial attention mechanisms to enhance segmentation accuracy. The model was evaluated in the Brain Magnetic Resonance Dataset of Multiple Sclerosis (BMDMS), achieving a Dice score of 98.58% and a specificity of 98.71%. We further evaluated MedSegNet-AXU in the Brain Tumor Segmentation (BRATS) 2019, 2020, and 2021 datasets, achieving mean Dice scores of 92–96% and Jaccard indices of 85–91% in modalities and tumor regions. We extracted 21 radiomic features for the sensory, motor, and visual systems from the segmented MS lesions and integrated them with clinical metadata. Using Chi-square feature selection, the top 20 features were classified with traditional machine learning and graph-based models, where GraphSAGE significantly outperformed others, achieving test accuracies of 86.21%, 96.55%, and 75.86% for sensory, motor, and visual systems. We validated the reliability of the GraphSAGE model using Threshold Analysis with Anomaly Edges and Correlation Range Clustering. By combining MRI imaging and clinical data, our approach offers a comprehensive tool for MS lesion analysis, aiding precise diagnosis and personalized treatment strategies.
+    </p>
+
+  </div>
+
+</div>
+
+
+<!-- BibTeX Modal 2 -->
+<div id="bib2" class="pub-modal">
+
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib2')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+<pre class="bib-box"><code id="bibtext2">@article{karim2026medsegnet,
+  author = {Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
+  title = {{MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
+  journal = {Complex \& Intelligent Systems},
+  year = {2026},
+  doi = {10.1007/s40747-026-02535-6},
+  url = {https://doi.org/10.1007/s40747-026-02535-6}
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext2')">
+      Copy Citation
+    </button>
+
+  </div>
+
+</div>
+
+
+<div class="pub-card">
+
+  <div class="pub-title">
     Learning to Weigh Waste: A Physics-Informed Multimodal Fusion Framework and Large-Scale Dataset for Commercial and Industrial Applications
   </div>
 
