@@ -501,12 +501,13 @@ My long-term goal is to pursue advanced research and contribute to the developme
     <h2>BibTeX Citation</h2>
 
 <pre class="bib-box"><code id="bibtext20">@article{karim2026medsegnet,
-  author = {Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
-  title = { {MedSegNet-AXU}: Advanced Segmentation and Graph-Based Classification of Multiple Sclerosis Lesions from 3D Magnetic Resonance Imaging via Radiomics and Clinical Data Fusion},
-  journal = {Complex &amp; Intelligent Systems},
-  year = {2026},
-  doi = {10.1007/s40747-026-02535-6},
-  url = {https://doi.org/10.1007/s40747-026-02535-6}
+  title={MedSegNet-AXU: advanced segmentation and graph-based classification of multiple sclerosis lesions from 3D magnetic resonance imaging via radiomics and clinical data fusion},
+  author={Karim, Wasimul and Zaman, Sayeem Been and Sutradhar, Debopom and Debnath, Ripon Kumar and Azam, Sami and Yeo, Kheng Cher and Zhang, Yan and Jonkman, Mirjam},
+  journal={Complex \& Intelligent Systems},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/s40747-026-02535-6},
+  url={https://doi.org/10.1007/s40747-026-02535-6}
 }</code></pre>
 
     <button class="pub-btn"
