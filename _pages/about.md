@@ -23,7 +23,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Nov, 2026</em></strong></div>
-  <div><strong>4th Q1 journal paper</strong> has been published in <strong style="color: #c99432;">Cluster Computing</strong> (Rank: Q1, Impact Factor: 5.5) 🎉</div>
+  <div><strong>4th Q1 journal paper</strong> has been accepted for publication in <strong style="color: #c99432;">Cluster Computing</strong> (Rank: Q1, Impact Factor: 5.5) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
