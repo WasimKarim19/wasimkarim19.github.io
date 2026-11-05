@@ -43,17 +43,17 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Jul, 2026</em></strong></div>
-  <div>Joint first-author paper has been published in <strong style="color: #c99432;">Computers and Electrical Engineering</strong> (Rank: Q1, CiteScore: 12.2, Impact Factor: 4.9) 🎉</div>
+  <div>Joint first-author paper has been published in <strong style="color: #c99432;">Computers and Electrical Engineering</strong> (Rank: Q1, CiteScore: 12.2, Impact Factor: 5.5) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Oct, 2025</em></strong></div>
-  <div>Joined the <strong style="color: #c99432;">University of Scholars</strong> as a Research Assistant. 👨🏻‍💻</div>
+  <div>Joined <strong style="color: #c99432;">University of Scholars</strong> as a Research Assistant. 👨🏻‍💻</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Jul, 2025</em></strong></div>
-  <div>Completed my B.Sc. in Computer Science and Engineering from <strong style="color: #c99432;">United International University</strong> with <em>Magna Cum Laude</em> distinction (Top 5%). 🎓</div>
+  <div>Completed B.Sc. in Computer Science and Engineering from <strong style="color: #c99432;">United International University</strong> with <em>Magna Cum Laude</em> distinction for academic excellence. 🎓</div>
 </div>
 
 </div>
