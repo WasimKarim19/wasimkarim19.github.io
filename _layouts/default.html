@@ -12,6 +12,7 @@ layout: compress
   </head>
 
   <body>
+    <canvas id="bg-particles" aria-hidden="true"></canvas>
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
@@ -26,6 +27,7 @@ layout: compress
     </div>
 
     {% include scripts.html %}
+    <script src="{{ '/assets/js/background.js' | relative_url }}" defer></script>
 
   </body>
 </html>
