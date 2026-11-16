@@ -23,7 +23,12 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Nov, 2026</em></strong></div>
-  <div><strong>4th Q1 journal paper</strong> has been accepted for publication in <strong style="color: #c99432;">Cluster Computing</strong> (Rank: Q1, Impact Factor: 5.5) 🎉</div>
+  <div><strong>5th journal paper</strong> has been accepted for publication in <strong style="color: #c99432;">Discover Computing</strong> (Rank: Q2) 🎉</div>
+</div>
+
+<div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
+  <div><strong><em>Nov, 2026</em></strong></div>
+  <div><strong>4th journal paper</strong> has been accepted for publication in <strong style="color: #c99432;">Cluster Computing</strong> (Rank: Q1, Impact Factor: 5.5) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
@@ -38,12 +43,12 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Aug, 2026</em></strong></div>
-  <div>2nd joint first-author paper has been published in <strong style="color: #c99432;">Archives of Computational Methods in Engineering</strong> (Rank: Q1 and Top 1% of journals in Web of Science, CiteScore: 34.8, Impact Factor: 12.9) 🎉</div>
+  <div>2nd joint first-author journal paper has been published in <strong style="color: #c99432;">Archives of Computational Methods in Engineering</strong> (Rank: Q1 and Top 1% of journals in Web of Science, CiteScore: 34.8, Impact Factor: 12.9) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
   <div><strong><em>Jul, 2026</em></strong></div>
-  <div>Joint first-author paper has been published in <strong style="color: #c99432;">Computers and Electrical Engineering</strong> (Rank: Q1, CiteScore: 12.2, Impact Factor: 5.5) 🎉</div>
+  <div>Joint first-author journal paper has been published in <strong style="color: #c99432;">Computers and Electrical Engineering</strong> (Rank: Q1, CiteScore: 12.2, Impact Factor: 5.5) 🎉</div>
 </div>
 
 <div style="display: grid; grid-template-columns: 120px 1fr; gap: 20px; padding: 16px 0; border-bottom: 1px solid #e5e5e5;">
