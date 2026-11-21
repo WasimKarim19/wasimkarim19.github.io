@@ -533,6 +533,93 @@ My long-term goal is to pursue advanced research and contribute to the developme
 <div class="pub-card">
 
   <div class="pub-title">
+    An Optimized Multi Objective Simulated Annealing Approach for Efficient Drone Based Product Delivery
+  </div>
+
+  <div class="pub-authors">
+    Debopom Sutradhar, Nur Mohammad Fahad,
+    <strong>Wasimul Karim</strong>,
+    Mohaimenul Azam Khan Raiaan, Sami Azam,
+    Sheikh Izzal Azid, Hamish A. Campbell
+  </div>
+
+  <div class="pub-journal">
+    Discover Computing, 2026
+  </div>
+
+  <div class="pub-buttons">
+    <button class="pub-btn" onclick="openPubModal('abstract2')">
+      Abstract
+    </button>
+
+    <button class="pub-btn" onclick="openPubModal('bib2')">
+      BIB
+    </button>
+
+    <a class="pub-btn"
+       href="https://doi.org/10.1007/s10791-026-10846-y"
+       target="_blank" rel="noopener noreferrer">
+      Link
+    </a>
+  </div>
+
+</div>
+
+
+<!-- Abstract Modal -->
+<div id="abstract2" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('abstract2')">
+      &times;
+    </span>
+
+    <h2>Abstract</h2>
+
+    <p>
+      Drone technology has revolutionized e-commerce and logistics by enabling cost-effective product delivery and increased revenue. Optimizing drone scheduling and routing is challenging as delivery locations increase and the solution space expands. The primary objective is to jointly optimize delivery scheduling and routing by proposing a Multi-Objective Simulated Annealing (MO-SA) approach that satisfies payload capacity and battery life constraints while using customer priority and delivery deadlines as urgency-based sequencing criteria. This research introduces a new scheduling and routing method by modifying a simulated annealing (SA) algorithm to optimize delivery sequences and routes. The method combines local search with the K-Nearest Neighbors (KNN) algorithm to generate initial neighbor sequences, refined by the SA process using Boltzmann distribution for acceptance probabilities. Across three 100-customer benchmark instances, MO-SA reduced mean delivery distance by 28.14–54.85% relative to the four evaluated baselines, with a mean runtime of 6.16 seconds on R101. Further experiments demonstrate reduced travel distances under weight constraints, a higher number of deliveries within the assumed battery threshold than the compared methods, and priority-based sequencing. A post-hoc graph-theoretic check confirms no customer duplication, consistent with Hamiltonian and Eulerian properties at the customer-sequence level. Overall, the proposed approach offers a constraint-aware solution with promising results at the tested problem scale, indicating potential for last-mile drone delivery applications pending explicit arrival-time modeling, scalability, and real-world validation.
+    </p>
+
+  </div>
+</div>
+
+
+<!-- BibTeX Modal 2 -->
+<div id="bib2" class="pub-modal">
+  <div class="pub-modal-content">
+
+    <span class="pub-modal-close"
+          onclick="closePubModal('bib2')">
+      &times;
+    </span>
+
+    <h2>BibTeX Citation</h2>
+
+<pre class="bib-box"><code id="bibtext2">@article{sutradhar2026optimized,
+  title={An optimized multi objective simulated annealing approach for efficient drone based product delivery},
+  author={Sutradhar, Debopom and Fahad, Nur Mohammad and Karim, Wasimul and Raiaan, Mohaimenul Azam Khan and Azam, Sami and Azid, Sheikh Izzal and Campbell, Hamish A},
+  journal={Discover Computing},
+  volume={29},
+  number={1},
+  pages={886},
+  year={2026},
+  publisher={Springer},
+  doi={10.1007/s10791-026-10846-y}
+}</code></pre>
+
+    <button class="pub-btn"
+            onclick="copyBib('bibtext2')">
+      Copy Citation
+    </button>
+
+  </div>
+</div>
+
+
+<div class="pub-card">
+
+  <div class="pub-title">
     Learning to Weigh Waste: A Physics-Informed Multimodal Fusion Framework and Large-Scale Dataset for Commercial and Industrial Applications
   </div>
 
