@@ -550,11 +550,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-buttons">
-    <button class="pub-btn" onclick="openPubModal('abstract2')">
+    <button class="pub-btn" onclick="openPubModal('abstract002')">
       Abstract
     </button>
 
-    <button class="pub-btn" onclick="openPubModal('bib2')">
+    <button class="pub-btn" onclick="openPubModal('bib002')">
       BIB
     </button>
 
@@ -569,11 +569,11 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 
 <!-- Abstract Modal -->
-<div id="abstract2" class="pub-modal">
+<div id="abstract002" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('abstract2')">
+          onclick="closePubModal('abstract002')">
       &times;
     </span>
 
@@ -588,17 +588,17 @@ My long-term goal is to pursue advanced research and contribute to the developme
 
 
 <!-- BibTeX Modal 2 -->
-<div id="bib2" class="pub-modal">
+<div id="bib002" class="pub-modal">
   <div class="pub-modal-content">
 
     <span class="pub-modal-close"
-          onclick="closePubModal('bib2')">
+          onclick="closePubModal('bib002')">
       &times;
     </span>
 
     <h2>BibTeX Citation</h2>
 
-<pre class="bib-box"><code id="bibtext2">@article{sutradhar2026optimized,
+<pre class="bib-box"><code id="bibtext002">@article{sutradhar2026optimized,
   title={An optimized multi objective simulated annealing approach for efficient drone based product delivery},
   author={Sutradhar, Debopom and Fahad, Nur Mohammad and Karim, Wasimul and Raiaan, Mohaimenul Azam Khan and Azam, Sami and Azid, Sheikh Izzal and Campbell, Hamish A},
   journal={Discover Computing},
@@ -611,7 +611,7 @@ My long-term goal is to pursue advanced research and contribute to the developme
 }</code></pre>
 
     <button class="pub-btn"
-            onclick="copyBib('bibtext2')">
+            onclick="copyBib('bibtext002')">
       Copy Citation
     </button>
 
