@@ -537,12 +537,14 @@ My long-term goal is to pursue advanced research and contribute to the developme
   </div>
 
   <div class="pub-authors">
-    Debopom Sutradhar, Nur Mohammad Fahad,
+    Debopom Sutradhar*, Nur Mohammad Fahad*,
     <strong>Wasimul Karim</strong>,
     Mohaimenul Azam Khan Raiaan, Sami Azam,
     Sheikh Izzal Azid, Hamish A. Campbell
   </div>
-
+  <div class="pub-equal">
+    *Equal contribution
+  </div>
   <div class="pub-journal">
     Discover Computing, 2026
   </div>
